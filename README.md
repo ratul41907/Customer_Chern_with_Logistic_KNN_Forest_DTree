@@ -34,3 +34,13 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/ratul41907/Customer_Chern_with_Logistic_KNN_Forest_DTree.git
 cd Customer_Chern_with_Logistic_KNN_Forest_DTree
+
+/Customer_Churn_with_Logistic_KNN_Forest_DTree
+│
+├── data/                   # Folder containing the dataset (CSV file or database export)
+├── notebooks/              # Jupyter Notebooks for analysis
+│   └── Customer_Churn_prediction_Learner.ipynb  # Main analysis notebook
+├── requirements.txt        # Python dependencies
+├── README.md               # Project overview and instructions
+└── LICENSE                 # Project license (if applicable)
+
